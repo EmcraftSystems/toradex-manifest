@@ -11,7 +11,7 @@
 
   <project name="meta-security" path="layers/meta-security" remote="yocto" revision="353078bc06c8b471736daab6ed193e30d533d1f1"/>
   <project name="meta-updater" path="layers/meta-updater" remote="uptane" revision="6c4feab2db70cb0c8ddce7e18dc7b851ad475b32"/>
-  <project name="meta-virtualization" path="layers/meta-virtualization" remote="yocto" revision="8f0eb65edaf6d280294c33446a9bb073a50b8c14"/>
+  <project name="meta-virtualization" path="layers/meta-virtualization" remote="yocto" revision="8b356b91ed0d4bcab72350a2ddcef880f4fa5c26"/>
   <project name="meta-toradex-distro.git" path="layers/meta-toradex-distro" remote="tdx" revision="kirkstone-6.x.y"/>
   <project name="meta-toradex-security" path="layers/meta-toradex-security" remote="toradex" revision="kirkstone-6.x.y"/>
   <project name="meta-toradex-torizon" path="layers/meta-toradex-torizon" remote="torizon" revision="kirkstone-6.x.y">
