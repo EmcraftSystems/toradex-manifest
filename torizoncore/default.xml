@@ -14,7 +14,7 @@
   <project name="meta-virtualization" path="layers/meta-virtualization" remote="yocto" revision="8b356b91ed0d4bcab72350a2ddcef880f4fa5c26"/>
   <project name="meta-toradex-distro.git" path="layers/meta-toradex-distro" remote="tdx" revision="7212583d894bbf5501fb1ff20c131ce485b4e4b7"/>
   <project name="meta-toradex-security" path="layers/meta-toradex-security" remote="toradex" revision="c5b9930fbebfdd39e061df728a88213fefd14cd8"/>
-  <project name="meta-toradex-torizon" path="layers/meta-toradex-torizon" remote="torizon" revision="ec19897e22dfc59cb426f3c37460ab722e7fac0e">
+  <project name="meta-toradex-torizon" path="layers/meta-toradex-torizon" remote="torizon" revision="8e454fb6385b100c718e26cbfa45f90931bccec3">
     <linkfile dest="setup-environment" src="scripts/setup-environment"/>
   </project>
 </manifest>
