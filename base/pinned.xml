@@ -8,5 +8,5 @@
   <project name="bitbake.git" path="layers/openembedded-core/bitbake" remote="oe" revision="e71f1ce53cf3b8320caa481ae62d1ce2900c4670" upstream="2.0"/>
   <project name="meta-openembedded.git" path="layers/meta-openembedded" remote="oe" revision="de8681b4a2a101b99dd2c48d89a7de2ccd9a961f" upstream="kirkstone"/>
   <project name="meta-yocto" path="layers/meta-yocto" remote="yocto" revision="6e8a5bac75ca114ef2b4d3ca150b3f501519ea8f" upstream="kirkstone"/>
-  <project name="openembedded-core.git" path="layers/openembedded-core" remote="oe" revision="077aab43f2c928eb8da71934405c62327010f552" upstream="kirkstone"/>
+  <project name="openembedded-core.git" path="layers/openembedded-core" remote="oe" revision="a397c152abf4f3da1323594e79ebac844a2c9f45" upstream="kirkstone"/>
 </manifest>
