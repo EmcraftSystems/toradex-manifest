@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote alias="repo" fetch="https://github.com/EmcraftSystems" name="emcraft"/>
+
+  <project name="meta-emcraft-torizon-st" path="layers/meta-emcraft-torizon-st" remote="emcraft" revision="scarthgap">
+    <linkfile dest="setup-environment" src="scripts/setup-environment"/>
+  </project>
+</manifest>
